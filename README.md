@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @bilaltosungit
-- 👀 I’m interested in Javascript, React, Angular
-- 🌱 I’m currently learning React, Nextjs
-- 💞️ I’m looking to collaborate remote jobs
-- 📫 How to reach me bilaltosun7@gmail.com
+- 👀 Interested in Javascript, React, Angular
+- 💻 Love AI
+- 🌱 Cuurently working with React, Nextjs
+- 💞️ Remote jobs
+- 📫 How to reach me bilaltosun7@gmail.com and https://www.linkedin.com/in/bilaltosundev/
 
 <!---
 bilaltosungit/bilaltosungit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
