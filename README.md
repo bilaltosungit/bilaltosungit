@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bilaltosungit
-- 👀 Interested in Javascript, React, Angular
+- 👀 Javascript, React, Nextjs, Angular
 - 💻 Love AI
 - 🌱 Cuurently working with React, Nextjs
 - 💞️ Remote jobs
