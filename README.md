@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bilaltosungit  ![My stats](https://github-readme-stats.vercel.app/api?username=bilaltosungit&show_icons=true&theme=radical)
+- 👋 Hi, I’m @bilaltosungit 
 - 👀 Javascript, React, Nextjs, Angular
 - 💻 Love AI
-- 🌱 Cuurently working with React, Nextjs
+- 🌱 Cuurently working with React, Nextjs                                                                                          ![My stats](https://github-readme-stats.vercel.app/api?username=bilaltosungit&show_icons=true&theme=radical)
 - 💞️ Remote jobs
 - 📫 How to reach me bilaltosun7@gmail.com and https://www.linkedin.com/in/bilaltosundev/
 
