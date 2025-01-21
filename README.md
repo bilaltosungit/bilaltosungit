@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilaltosungit
+- 👋 Hi, I’m @bilaltosungit  ![My stats](https://github-readme-stats.vercel.app/api?username=bilaltosungit&show_icons=true&theme=radical)
 - 👀 Javascript, React, Nextjs, Angular
 - 💻 Love AI
 - 🌱 Cuurently working with React, Nextjs
@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.hackerrank.com/profile/bilaltosun7"><img src="https://img.shields.io/badge/Hackerrank-bilaltosun-2ea44f?logo=hackerrank" alt="Hackerrank - bilaltosun" /></a>
 
 
-![My stats](https://github-readme-stats.vercel.app/api?username=bilaltosungit&show_icons=true&theme=transparent)
+
