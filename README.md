@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/mcagriaksoy"><img src="https://img.shields.io/github/stars/bilaltosungit?style=social" alt="stars - CCrypto" /></a>
 <a href="https://www.hackerrank.com/profile/bilaltosun7"><img src="https://img.shields.io/badge/Hackerrank-bilaltosun-2ea44f?logo=hackerrank" alt="Hackerrank - bilaltosun" /></a>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=bilaltosungit&show_icons=true&theme=transparent)
 
 
 
